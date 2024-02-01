@@ -14,6 +14,8 @@
 .nitro
 .cache
 dist
+public
+package.json
 
 # Node dependencies
 node_modules

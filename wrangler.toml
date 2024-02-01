@@ -1,0 +1,7 @@
+name = "xiangxin"
+main = "./.output/server/index.mjs"
+workers_dev = true
+compatibility_date = "2024-02-01"
+
+[site]
+bucket = ".output/public"

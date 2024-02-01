@@ -1,0 +1,12 @@
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+# 规定换行符格式
+end_of_line = crlf   
+charset = utf-8
+#是否删除换行符之前的空白字符
+trim_trailing_whitespace = false
+#文件是否应以换行符结尾
+insert_final_newline = false

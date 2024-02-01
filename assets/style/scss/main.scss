@@ -1,0 +1,74 @@
+.container {
+  max-width: 100vw;
+  min-height: 100vh;
+  background-image: url(/images/background1.webp);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+  transition: background-image 2s;
+  letter-spacing: 0.2em;
+  padding-top: 50px;
+  font-family: 'Pacifico-Regular' !important;
+  .bgc {
+    background: rgba(255, 255, 255, 0.255);
+    backdrop-filter: blur(100px);
+    border-radius: 40px;
+    box-shadow: 0 0 30px 10px rgba(0, 0, 0, 0.3);
+    transition: 0.5s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: #fff;
+  }
+  .bgc:hover {
+    // transform: scale(1.02);
+    transition: 0.5s;
+    backdrop-filter: blur(1px);
+  }
+  .name {
+    text-align: center;
+    font-size: 50px;
+    background: linear-gradient(to right, red, blue);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .text {
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer !important;
+    .text_1 {
+      font-size: 50px;
+    }
+    .text_2 {
+      margin-left: 100px;
+    }
+  }
+
+  .social {
+    cursor: pointer !important;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    .iconli {
+      font-size: 30px;
+      top: 6px;
+      margin-left: 10px;
+    }
+  }
+  .iconbox{
+    cursor: pointer !important;
+    // width: 8vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 30px;
+  }
+  .icon{
+    font-size: 40px;
+  }
+}
+

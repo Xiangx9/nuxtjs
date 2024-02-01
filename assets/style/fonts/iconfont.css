@@ -1,0 +1,160 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3958111 */
+  src: url('iconfont.woff2?t=1680829647144') format('woff2'),
+       url('iconfont.woff?t=1680829647144') format('woff'),
+       url('iconfont.ttf?t=1680829647144') format('truetype'),
+       url('iconfont.svg?t=1680829647144#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-record-video-full:before {
+  content: "\e96a";
+}
+
+.icon-MV1:before {
+  content: "\e602";
+}
+
+.icon-erji:before {
+  content: "\e60c";
+}
+
+.icon-huitui:before {
+  content: "\e63c";
+}
+
+.icon-guanbishixin:before {
+  content: "\e8dc";
+}
+
+.icon-bingzhuangtu:before {
+  content: "\e62e";
+}
+
+.icon-envelope-full:before {
+  content: "\e982";
+}
+
+.icon-wangyiyunyinle:before {
+  content: "\e605";
+}
+
+.icon-qipao:before {
+  content: "\e603";
+}
+
+.icon-shouye:before {
+  content: "\e62d";
+}
+
+.icon-tubiao_zhexiantu:before {
+  content: "\e67e";
+}
+
+.icon-zhuzhuangtu:before {
+  content: "\e614";
+}
+
+.icon-geshou:before {
+  content: "\e63e";
+}
+
+.icon-MV:before {
+  content: "\e62c";
+}
+
+.icon-leidatu:before {
+  content: "\e641";
+}
+
+.icon-gedan:before {
+  content: "\e636";
+}
+
+.icon-ciyuntu:before {
+  content: "\e615";
+}
+
+.icon-shuiqiutu:before {
+  content: "\e79b";
+}
+
+.icon-wodeyinle:before {
+  content: "\e604";
+}
+
+.icon-paihangbang:before {
+  content: "\e875";
+}
+
+.icon-a-ziyuan290:before {
+  content: "\e616";
+}
+
+.icon-tushu:before {
+  content: "\e600";
+}
+
+.icon-lianjie:before {
+  content: "\e601";
+}
+
+.icon-yaoji:before {
+  content: "\e619";
+}
+
+.icon-QQ:before {
+  content: "\e882";
+}
+
+.icon-biji:before {
+  content: "\e669";
+}
+
+.icon-ditu:before {
+  content: "\e662";
+}
+
+.icon-compass:before {
+  content: "\e67d";
+}
+
+.icon-B:before {
+  content: "\e70a";
+}
+
+.icon-shuyi_fanyi-36:before {
+  content: "\e65c";
+}
+
+.icon-bilibili:before {
+  content: "\e723";
+}
+
+.icon-github:before {
+  content: "\ec01";
+}
+
+.icon-a-shuangyinhaozuo3x:before {
+  content: "\e61c";
+}
+
+.icon-a-shuangyinhaoyou3x:before {
+  content: "\e61d";
+}
+
+.icon-paperPlane-fill:before {
+  content: "\e6c1";
+}
+
+.icon-niao:before {
+  content: "\e62f";
+}
+

@@ -1,48 +1,90 @@
-# Nuxt Example
+<h1 align='center'>🔥🔥🔥Nuxt3 个人网站🔥🔥🔥</h1>
+<h2 align='center'>第一次写Nuxt不喜勿喷</h2>
 
-Deploy your [Nuxt](https://nuxt.com) project to Vercel with zero configuration.
+---
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/nuxtjs&template=nuxtjs)
+## 项目介绍
 
-_Live Example: https://nuxtjs-template.vercel.app_
+- 集成了Nuxt3+@nuxt/ui+Pinia+EsLint+Prettier+Sass+TypeScript
+- 对request进行了基础的二次封装
+- 内置了一些常用的工具函数和正则验证
 
-Look at the [Nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+### 环境要求
 
-## Setup
+- Node.js v18.0.0以上
 
-Make sure to install the dependencies:
+## Nuxt 3 项目启动
+
+查看[Nuxt3 文档](https://nuxt.com/docs/getting-started/introduction)了解更多信息
+
+### 安装
+
+安装项目依赖:
 
 ```bash
-# yarn
-yarn
-
 # npm
 npm install
 
 # pnpm
-pnpm install --shamefully-hoist
+pnpm install
+
+# yarn
+yarn install
+
+# bun
+bun install
 ```
 
-## Development Server
+### 开发服务器
 
-Start the development server on http://localhost:3000
+启动本地开发环境 `http://localhost:3000`:
 
 ```bash
+# npm
 npm run dev
+
+# pnpm
+pnpm run dev
+
+# yarn
+yarn dev
+
+# bun
+bun run dev
 ```
 
-## Production
+### 生产环境
 
-Build the application for production:
+打包生产环境:
 
 ```bash
+# npm
 npm run build
+
+# pnpm
+pnpm run build
+
+# yarn
+yarn build
+
+# bun
+bun run build
 ```
 
-Locally preview production build:
+本地运行预览生产版本:
 
 ```bash
+# npm
 npm run preview
+
+# pnpm
+pnpm run preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
 ```
 
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment#presets) for more information.
+查看[部署文档](https://nuxt.com/docs/getting-started/deployment)了解更多信息。
